@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-![My Profile Banner](./banner.png)
+<p align="center">
+  <img src="./banner.png" alt="My Profile Banner" width="100%">
+</p>
+
